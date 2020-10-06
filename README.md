@@ -39,6 +39,12 @@ List of music artists.
 
 </details>
 
+
+## Contact
+
+Feel free to contact Four in One Telecom Design Studio: [DesignofCp](https://github.com/DesignofCp) if you have questions about Prototype, or any of Four in One Telecom Design Studio open source projects, wish to sponsor, or contribute to our projects.
+
+
 ## License
 
 MIT License
